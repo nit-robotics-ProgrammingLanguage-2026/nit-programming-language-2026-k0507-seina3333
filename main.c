@@ -12,7 +12,7 @@ int main(void)
         printf("A");
     else if (input >= 70)
         printf("B");
-    else if (input > 60)
+    else if (input >= 60)
         printf("C");
     else if (input > 0)
         printf("D");
